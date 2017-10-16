@@ -1,8 +1,8 @@
 WAM inventory number#Label#Issue ID#Material#Denomination#Weight#Die axis#Obverse legend#Obverse type#Obverse symbols#Reverse legend#Reverse type#Reverse symbols#Mint#Find spot#Date#Condition
-WAM.2001.239##ric.1(2).cl.100#aes#as#11.5#6#TI(berivs) CLAVDIVS CAESAR AVG(vstvs) PM <T>R P IM[P](erator)#Head of Claudius, bare, left##S C#Minerva, helmeted and draped, advancing right, levelling javelin in right hand and shield in left##Rome##41:50#
-WAM.2001.212##ric.4.crl.116#silver#denarius###ANTONINVS PIVS AVG(vstvs)#Head of Caracalla, laureate, bearded, right##PONTIF <T><R>P XIII COS III#Concordia, draped, seated left, holding patera in extended right hand and double cornucopiae in left hand##Rome##210#
-WAM.2001.228##ric.4.crl.569#aes#as###ANTONINVS PIVS AVG(vstvs) GERM(an)#Head of Caracalla, laureate, right##P M TR [P] XX COS IIII [P P] S C#Pluto, wearing polos, seated left, resting right hand on knee, holding sceptre in left hand; to left, Cerberus##Rome##217#
-WAM.2001.229##ric.4.sa.266d#silver#denarius###IMP CM AVR SEV ALEXAND AVG#Bust of Severus Alexander, laureate, draped, cuirassed, right##<P> M TR P COS P P#Mars, helmeted, standing left, holding branch in right hand and reversed spear in left hand; in field, star##Antioch##222#
+WAM.2001.239#As of Tiberius#ric.1(2).cl.100#aes#as#11.5#6#TI(tiberivs) CLAVDIVS CAESAR AVG(avgvstvs) PM <T>R P IM[P](imperator)#Head of Claudius, bare, left##S C#Minerva, helmeted and draped, advancing right, levelling javelin in right hand and shield in left##Rome##41:50#
+WAM.2001.212#Denarius of Antoninus#ric.4.crl.116#silver#denarius###ANTONINVS PIVS AVG(avgvstvs)#Head of Caracalla, laureate, bearded, right##PONTIF <T><R>P XIII COS III#Concordia, draped, seated left, holding patera in extended right hand and double cornucopiae in left hand##Rome##210#
+WAM.2001.228#As of Antoninus#ric.4.crl.569#aes#as###ANTONINVS PIVS AVG(avgvstvs) GERM(german)#Head of Caracalla, laureate, right##P M TR [P] XX COS IIII [P P], S C#Pluto, wearing polos, seated left, resting right hand on knee, holding sceptre in left hand; to left, Cerberus##Rome##217#
+WAM.2001.229#Denarius of Severus Alexander#ric.4.sa.266d#silver#denarius###IMP(imperator) CM AVR SEV(severvs) ALEXAND(alexander) AVG(avgvstvs)#Bust of Severus Alexander, laureate, draped, cuirassed, right##<P> M TR P COS P P#Mars, helmeted, standing left, holding branch in right hand and reversed spear in left hand; in field, star##Antioch##222#
 WAM.2001.240################
 WAM.2001.245################
 WAM.2001.246################
