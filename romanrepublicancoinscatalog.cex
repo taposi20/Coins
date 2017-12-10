@@ -1,7 +1,7 @@
-WAM inventory number#Label#Issue ID#Material#Denomination#Weight#Die axis#Obverse Legend#Obverse Type#Obverse Symbols#Reverse Legend#Obverse Symbol#Reverse Legend#Reverse Type#Reverse Symbols#Mint#Date
-WAM.2001.183#####3.9#7
-WAM.2001.184#####3.7#3##########
-WAM.2001.185#####3.8#6##########
-WAM.2001.186#####3.9#8##########
-WAM.2001.187#####4.4#2##########
-WAM.2001.188#####3.7#9##########
+WAM inventory number#Label#Issue ID#Material#Denomination#Weight#Die axis#Obverse Legend#Obverse Type#Obverse Symbols#Reverse Legend#Reverse Type#Reverse Symbols#Mint#Date#Issuer
+WAM.2001.183#Denarius issued by Sextus Pompeius#rrc-235.1a#silver#denarius#3.9#7##Helmeted head of Roma, right#X#S<E>[X·POM], ROMA#She-wolf, right, suckling twins; behind, tree (ficus Ruminalis), with one bird perching on trunk and two birds perching on upper branches; on left, Faustulus, identified by inscription##Rome#-137#Sextus Pompeius
+WAM.2001.184#Denarius issued by L. Titurius Sabinus#rrc-344.2c#silver#denarius#3.7#3#SABIN APV#Bearded head of King Tatius, right##L·TITVRI#Killing of Tarpeia; above, star in crescent; in exergue, inscription.##Rome#-89#L. Titurius Sabinus#
+WAM.2001.185#Denarius issued by unknown authority#rrc-458.1#silver#denarius#3.8#6##Head of Venus right, wearing diadem##CAESAR#Aeneas left, carrying palladium in right hand and Anchises on left shoulder##Africa#-46:-47#Julius Caesar#
+WAM.2001.186#Denarius issued by Julius Caesar#rrc-53.2#silver#denarius#3.9#8##Helmeted head of Roma, right#X##Dioscuri galloping right##Rome#-211##
+WAM.2001.187#Denarius issued by L. Sempronius Pitio#rrc-216.1#silver#denarius#4.4#2#PITIO#Helmeted head of Roma, right#X#L·SEMP ROMA#Dioscuri galloping right##Rome#-148#L. Sempronius Pitio#
+WAM.2001.188#Denarius issued by C. Antestius#rrc-219.1d#silver#denarius#3.7#9#C·AESTI#Helmeted head of Roma, right#X#ROMA#Dioscuri galloping right, with dog running right##Rome#-146#C. Antestius#
